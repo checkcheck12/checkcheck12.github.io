@@ -1,0 +1,51 @@
+body {
+	margin:0 auto;
+	background-color: #ffbe00;
+}
+
+.homeworks-title {
+ text-align:center;
+ padding-top: 30px;
+ padding-bottom:120px;
+ font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+	font-size: 30px;
+	color:#fff;
+}
+
+.wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #fff;
+	text-align:center;
+	  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+	  height:400px;
+	  width:250px;
+	  margin-bottom: 40px;
+}
+.wrapper-title {
+	padding-top:110px;
+	padding-bottom: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+
+}
+.wrapper-descr {
+margin-bottom: 50px;
+font-family: 'Roboto', sans-serif;
+	font-weight: 400
+}
+.button {
+	cursor:pointer;
+	width: 161px;
+ height: 56px;
+ background-color:#ff9d00;
+ border:none;
+ color:#fff;
+ border-radius: 5px;
+ outline: none;
+}
+.button a {
+	color:#fff;
+	text-decoration:none;
+}
